@@ -1,0 +1,128 @@
+@font-face {
+    font-family: "Yu Youren";
+    src: url("yu-youren.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+        
+html {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 18px;
+    padding: 0px;
+}
+
+menu {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background: #1A2838;
+    color: #f7f6e8;
+}
+
+body {
+    width: 45%;
+    padding: 50px;
+    border-radius: 25px;
+    background: #2a415c;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+li {
+  margin-left: 20px;
+  color: #f7f6e8;
+}
+
+
+h1 {
+    color: #f7f6e8;
+    margin-bottom: 0px;
+}
+h2 {
+    color: #f7f6e8;
+}
+h3 {
+    color: #f7f6e8;
+}
+
+p {
+    color: #f7f6e8;
+}
+b {
+    color: #c3bc55;
+}
+
+citet {
+    color: #a1cede;
+}
+a {
+    text-decoration: none;
+    color: #f7f6e8;
+}
+a[context="citet"] {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 1px;
+    color: #a1cede;
+}
+a[context="citet"][size="footnotesize"] {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 1px;
+    color: #a1cede;
+    font-size: 16px;
+}
+
+
+footnotesize {
+    font-size: 16px;
+    color: #f7f6e8;
+}
+
+form {
+    color:#f7f6e8;
+}
+select {
+    font-family:inherit;
+    font-size:16px;
+    background-color: #315781;
+    color: #f7f6e8;
+    padding: 8px;
+    border: none;
+    border-radius:5px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size:12px;
+}
+th {
+  text-align: left;
+}
+tr:nth-child(3n+1) {
+  border-bottom: 2px solid #f7f6e8;
+}
+tr:nth-child(3n+2) {
+  border-bottom: 1px dotted #f7f6e8;
+}
+tr:nth-child(3n) {
+  border-bottom: 1px dotted #f7f6e8;
+}
+td: {
+    font-size:12px;
+}
+tr td:first-child {
+    white-space:nowrap;
+}
+tr td:nth-child(3) {
+    width:20%;
+}

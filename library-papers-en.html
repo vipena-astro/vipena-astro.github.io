@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en-GB" style="background-image: url('./AK_hutchers-pass.jpg');">
+    <head>
+        <meta name="author" content="Valentín Peña-Donaire"/>
+        <meta charset="utf-8" />
+        <title>Valentín Peña-Donaire</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <menu style="background:#1A2838;margin:-50px;">
+            <div align="right">
+                <footnotesize >[ <a href=./library-papers-en.html>English</a> | <a href=./library-papers-es.html>Español</a> ]</footnotesize>
+            </div>
+            <div>
+                <a href=./index.html>Home</a>
+                 | <a href=./library-books-en.html>Library</a>
+                <!--
+                 | <a href=./pics-en.html>Photos</a>
+                -->
+            </div>
+            <div style="background:#203246;margin-left:-25px;;margin-right:-25px;padding-left:50px;padding-right:25px;">
+                <a href=./library-books-en.html>Books</a>
+                 | <a href=./library-papers-en.html>Papers</a>
+                 | <a href=./library-others-en.html>Others</a>
+            </div>
+        </menu>
+        <br><br><br>
+        
+        <h1>Library: <small>some interesting papers</small></h1>
+        <p>Just a space to save some cool references I find interesting. I have not read most of them in depth, but they give a first impression of what my academic interests span.</p>
+        <p>Browse papers by keywords using the drop-down menu below. Some papers might be indexed under more than one keyword.</p>
+        <br>
+        
+        
+        <form>
+            keyword search:
+            <select id="input" onchange="keyword_select()">
+                <option value="all">all papers</option>
+                <option value="mechanics">mechanics</option>
+                <option value="planetary-science">planetary science</option>
+                <option value="hydrodynamics">hydrodynamics</option>
+                <option value="accretion-discs">accretion discs</option>
+                <option value="plasma-physics-and-grmhd">plasma physics and GRMHD</option>
+                <option value="stellar-astrophysics">stellar astrophysics</option>
+                <option value="relativity-and-gravitation">relativity and gravitation</option>
+                <option value="gravitational-waves">gravitational waves</option>
+                <option value="black-holes">black holes</option>
+                <option value="neutron-stars">neutron stars</option>
+            </select>
+        </form>
+        <p id="output"></p>
+
+        <script src="./papers_keyword-search.js"></script>
+
+    </body>
+</html>

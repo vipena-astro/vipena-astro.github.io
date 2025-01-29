@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="es-LA" style="background-image: url('./AK_hutchers-pass.jpg');">
+    <head>
+        <meta name="author" content="Valentín Peña-Donaire"/>
+        <meta charset="utf-8" />
+        <title>Valentín Peña-Donaire</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <menu style="background:#1A2838;margin:-50px;">
+            <div align="right">
+                <footnotesize >[ <a href=./library-papers-en.html>English</a> | <a href=./library-papers-es.html>Español</a> ]</footnotesize>
+            </div>
+            <div>
+                <a href=./es.html>Inicio</a>
+                 | <a href=./library-books-es.html>Biblioteca</a>
+                <!--
+                 | <a href=./pics-en.html>Photos</a>
+                -->
+            </div>
+            <div style="background:#203246;margin-left:-25px;;margin-right:-25px;padding-left:50px;padding-right:25px;">
+                <a href=./library-books-es.html>Libros</a>
+                 | <a href=./library-papers-es.html>Papers</a>
+                 | <a href=./library-others-es.html>Otros</a>
+            </div>
+        </menu>
+        <br><br><br>
+        
+        <h1>Biblioteca: <small>alguno que otro paper choro</small></h1>
+        <p>Simplemente un lugar para tener juntas algunas referencias que me llamaron la atención. La mayoría no las he leído en profundidad, pero dan una buena primera impresión de lo que vendrían siendo mis intereses académicos.</p>
+        <p>Muévete por los papers usando palabras clave en el seleccionador más abajo. Ojo que algunos papers puede que estén indexados bajo más de una palabra clave.</p>
+        <br>
+        
+        
+        <form>
+            búsqueda por palabras clave:
+            <select id="input" onchange="keyword_select()">
+                <option value="all">todos los papers</option>
+                <option value="mechanics">mecánica</option>
+                <option value="planetary-science">ciencias planetarias</option>
+                <option value="hydrodynamics">hidrodinámica</option>
+                <option value="accretion-discs">discos de acreción</option>
+                <option value="plasma-physics-and-grmhd">física del plasma y GRMHD</option>
+                <option value="stellar-astrophysics">astrofísica estelar</option>
+                <option value="relativity-and-gravitation">relatividad y gravitación</option>
+                <option value="gravitational-waves">ondas gravitacionales</option>
+                <option value="black-holes">agujeros negros</option>
+                <option value="neutron-stars">estrellas de neutrones</option>
+            </select>
+        </form>
+        <p id="output"></p>
+        <script src="./papers_keyword-search__es.js"></script>
+
+    </body>
+</html>
