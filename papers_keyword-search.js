@@ -30,6 +30,13 @@ var all="\
         <td>2023</td>\
     </tr>\
     <tr>\
+        <td>Ahmed, F.,<br> Sakallı, İ., <br>Al-Badawi, A., &<br>Bouzenada, A.</td>\
+        <td>Scalar, vector perturbations and effective Hawking radiation of cylindrical black holes in \\(f(\mathcal{R})\\) and Ricci-inverse gravity</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.00060>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250100060A/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
         <td>Alfaro, J., <br>Espriu, D., &<br>Gabbanelli, L.</td>\
         <td>Bose-Einstein graviton condensate in a Schwarzschild black hole</td>\
         <td>CQGr, 35, 015001<br>\
@@ -154,6 +161,13 @@ var all="\
         <td>2022</td>\
     </tr>\
     <tr>\
+        <td>Bucciotti, B., <span id='bucciottietal' onclick='Bucciottietal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Ringdown nonlinearities in the eikonal regime</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.17950>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250117950B/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
         <td>Cantiello, M., <br>Jermyn, A., &<br>Lin, D. N. C. (<span style='font-family:Liu Jian Mao Cao;'>林潮</span>)</td>\
         <td>Stellar evolution in AGN disks</td>\
         <td>ApJ, 910, 94<br>\
@@ -170,6 +184,13 @@ var all="\
          | <a context=citet href=https://arxiv.org/abs/2401.06424>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024PhLB..85038510C/abstract>ADSAbs</a></td>\
         <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Carballo-Rubio, D., <span id='carballorubioetal' onclick='CarballoRubioetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Towards a non-singular paradigm of black hole physics</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.05505>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250105505C/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
     </tr>\
     <tr>\
         <td>Cashen, B., <br>Aker, A., &<br>Kesden, M.</td>\
@@ -259,6 +280,13 @@ var all="\
         <td>1993</td>\
     </tr>\
     <tr>\
+        <td>Creci, G., <br>van Gemeren, I., <br>Hniderer, T., &<br>Steinhoff, J.</td>\
+        <td>Tidal effects in gravitational waves from neutron stars in scalar-tensor theories of gravity</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2412.06620>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241206620C/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
         <td>Cutler, C. &<br>Flanagan, É. É.</td>\
         <td>Gravitational waves from merging compact binaries: How accurately can one extract the binary's parameters from the inspiral waveform?</td>\
         <td>Phys. Rev. D, 49, 2658<br>\
@@ -266,6 +294,13 @@ var all="\
          | <a context=citet href=https://arxiv.org/abs/gr-qc/9402014>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/1994PhRvD..49.2658C/abstract>ADSAbs</a></td>\
         <td>1994</td>\
+    </tr>\
+    <tr>\
+        <td>Das, P., <span id='dasetal' onclick='Dasetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Pulse profiles of accreting neutron stars from GRMHD simulations</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2411.16528>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241116528D/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
     </tr>\
     <tr>\
         <td>De Falco, V., <br>Battista, E., <br>Usseglio, D., &<br>Capozziello, S.</td>\
@@ -328,6 +363,15 @@ var all="\
         <td>2020</td>\
     </tr>\
     <tr>\
+        <td>Dong, W. &<br>Melatos, A.<\td>\
+        <td>Gravitational waves from \\(r\\)-mode oscillations of stochastically accreting neutron stars</td>\
+        <td>MNRAS, 537, 650\
+        <a> context=citet href=https://www.doi.org/10.1093/mnras/staf033>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025MNRAS.537..650D/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
         <td>Dumin, Y. V. &<br>Somov, B. V.</td>\
         <td>Unipolar solar flares as a manifestation of 'topological' magnetic reconnection</td>\
         <td>MNRAS Lett., 528, L15<br>\
@@ -373,6 +417,13 @@ var all="\
         <td>2024</td>\
     </tr>\
     <tr>\
+        <td>Fathi, M. &<br>Övgün, A.</td>\
+        <td>Black hole with global monopole charge in self-interacting Kalb-Ramond field</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.09899>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250109899F/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
         <td>Feng, W.-F., <span id='fengetal' onclick='Fengetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
         <td>Inferring binary parameters with dual-line gravitational wave detection from tight inspiraling double neutron stars</td>\
         <td>Phys. Rev. D, 109, 043033<br>\
@@ -409,6 +460,29 @@ var all="\
         <td>1998</td>\
     </tr>\
     <tr>\
+        <td>Flores, C. V., <span id='floresetal' onclick='Floresetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Gravitational wave asteroseismology of dark matter hadronic stars</td></a>\
+        <td>Phys. Rev. D, 109, 083021<br>\
+        <a context=citet href=https://www.doi.org/10.1103/PhysRevD.109.083021>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/2402.12600>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024PhRvD.109h3021F/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Fynn Diedrichs, R., <br>Tsujikawa, S., &<br>Yagi, K.</td>\
+        <td>Tidal Love numbers of neutron stars in Horndeski theories</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.07998>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250107998F/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Gao, Y., <span id='gaoetal' onclick='Gaoetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Convective stability analysis of massive neutron stars formed in binary mergers</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.19053>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250119053G/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
         <td>Gamba, R. &<br>Bernuzzi, S.</td>\
         <td>Resonant tides in binary neutron star mergers: Analytical-numerical relativity study</td>\
         <td>Phys. Rev. D, 107, 044014<br>\
@@ -416,6 +490,13 @@ var all="\
          | <a context=citet href=https://arxiv.org/abs/2207.13106>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2023PhRvD.107d4014G/abstract>ADSAbs</a></td>\
         <td>2023</td>\
+    </tr>\
+    <tr>\
+        <td>Gavassino, L.</td>\
+        <td>Extending Israel-Stewart theory: Causal bulk viscosity at large gradients</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.12543>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250112543G/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
     </tr>\
     <tr>\
         <td>Gimeno-Soler, S., <br>Font, J. A., <br>Herdeiro, C., &<br>Radu, E.</td>\
@@ -453,6 +534,13 @@ var all="\
         <td>2022</td>\
     </tr>\
     <tr>\
+        <td>Guo, X., <span id='guoetal' onclick='Guoetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>There is room at the top: Fundamental quantum limits for detecting ultra-high frequency gravitational waves</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.18146>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250118146G/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
         <td>Hamers, A. S. & <br>Tremaine, S.</td>\
         <td>Hot Jupiters driven by high-eccentricity migration in globular clusters</td>\
         <td>AJ, 154, 272<br>\
@@ -460,6 +548,20 @@ var all="\
          | <a context=citet href=https://arxiv.org/abs/1710.00006>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2017AJ....154..272H/abstract>ADSAbs</a></td>\
         <td>2017</td>\
+    </tr>\
+    <tr>\
+        <td>He, K.-J., (<span style='font-family:Liu Jian Mao Cao;'>何柯腱</span>)<br>Yang, C.-J., &<br>Zeng, X.-X. (<span style='font-family:Liu Jian Mao Cao;'>曾晓雄</span>)</td>\
+        <td>Optical appearance of the Konoplya-Zhidenko rotating non-Kerr black hole surrounded by a thin accretion disk</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.06778>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250106778H/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Heinz, U. &<br>Schenke, B.</td>\
+        <td>Hydrodynamic description of the quark-gluon plasma</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2412.19393>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241219393H/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
     </tr>\
     <tr>\
         <td>Herdeiro, C. A. R. &<br>Radu, E.</td>\
@@ -516,6 +618,13 @@ var all="\
         <td>2024</td>\
     </tr>\
     <tr>\
+        <td>Hu, Y. &<br>Kamada, K.</td>\
+        <td>Gravitational waves from metastable cosmic strings in the delayed scaling scenario</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.18380>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250118380H/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
         <td>Ivanov, P. B. &<br>Zhuralev, V. V.</td>\
         <td>On the evolution of a twisted thin accretion disc in eccentric inclined supermassive binary black holes</td>\
         <td>MNRAS, 528, 337<br>\
@@ -542,6 +651,13 @@ var all="\
         <td>2023</td>\
     </tr>\
     <tr>\
+        <td>Karmakar, B. &<br>Djordjevic, M.</td>\
+        <td>Radiative energy loss in a dynamically evolving quark-gluon plasma</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2412.17106>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241217106K/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
         <td>Kenzhebayeva, S.,<br>Toktarbay, S.,<br>Tursunov, A., &<br>Kološ, M.</td>\
         <td>Black hole in a combined magnetic field: Ionized accretion disks in the jetlike and looplike configurations</td>\
         <td>Phys. Rev. D, 109, 063005<br>\
@@ -549,6 +665,13 @@ var all="\
          | <a context=citet href=https://arxiv.org/abs/2402.16529>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024Phys. Rev. D.109f3005K/abstract>ADSAbs</a></td>\
         <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Koide, S., <br>Noda, S., &<br>Takahashi, M.</td>\
+        <td>One-dimensional linear analysis and numerical simulations of Alfv´en waves in a force-free magnetosphere around a Kerr black hole</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.13314>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250113314K/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
     </tr>\
     <tr>\
         <td>Kozai, Y.</td>\
@@ -560,12 +683,21 @@ var all="\
     </tr>\
     <tr>\
         <td>Kraav, K. Y., <br>Gusakov, M. E., &<br>Kantor, E. M.</td>\
-        <td>Instability windows of relativistic r -modes</td>\
+        <td>Instability windows of relativistic \\(r\\)-modes</td>\
         <td>Phys. Rev. D, 109, 043012<br>\
         <a context=citet href=https://doi.org/10.1103/PhysRevD.109.043012>DOI</a>\
          | <a context=citet href=https://arxiv.org/abs/2401.06200>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024PhRvD.109d3012K/abstract>ADSAbs</a></td>\
         <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Kumar, D., <br>Malik, T., <br>Mishra, H., &<br>Providência, C.</td>\
+        <td>Robust universal relations in neutron star asteroseismology</td>\
+        <td>Phys. Rev. D 108, 083008<br>\
+        <a context=citet href=https://www.doi.org/10.1103/PhysRevD.108.083008></a>\
+         | <a context=citet href=https://arxiv.org/abs/2306.09277>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2023PhRvD.108h3008K/abstract>ADSAbs</a></td>\
+        <td>2023</td>\
     </tr>\
     <tr>\
         <td>Kumar, H., <br>Kumar, B., <br>Rajaguru, S. P.</td>\
@@ -593,6 +725,13 @@ var all="\
          | <a context=citet href=https://arxiv.org/abs/2211.11150>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2023PhRvD.107f3007L/abstract>ADSAbs</a></td>\
         <td>2023</td>\
+    </tr>\
+    <tr>\
+        <td>Li, H.-B., <br>Shao, L., <br>Xia, C.-J. (<span style='font-family:Liu Jian Mao Cao;'>夏铖君</span>), &<br>Xu, R.-X.  (<span style='font-family:Liu Jian Mao Cao;'>徐仁新</span>)</td>\
+        <td>Continuous gravitational waves from thermal mountains on accreting neutron stars: Effect of the nuclear pasta phase</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2411.11075>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241111075L/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
     </tr>\
     <tr>\
         <td>Li, J., <br>Dempsey, A., <br>Li, H., <br>Lai, D., &<br>Li, S.</td>\
@@ -683,6 +822,13 @@ var all="\
         <td>1999</td>\
     </tr>\
     <tr>\
+        <td>Mehta, A. K., <span id='mehtaetal' onclick='Mehtaetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Significant increase in sensitive volume of a gravitational wave search upon including higher harmonics</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.17939>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250117939M/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
         <td>Mignon-Risse, R., <br>González, M., <br>Commerçon, B., &<br>Rosdahl, J.</td>\
         <td>Collapse of turbulent massive cores with ambipolar diffusion and hybrid radiative transfer.<br>I. Accretion and multiplicity</td>\
         <td>A&A, 652, A69<br>\
@@ -701,6 +847,13 @@ var all="\
         <td>2021</td>\
     </tr>\
     <tr>\
+        <td>Moriyama, K., <span id='moriyamaetal' onclick='Moriyamaetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Black hole accretion and radiation variability in GRMHD simulations with Rezzolla-Zhidenko spacetime</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.08720>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250108720M/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
         <td>Nasim, S. S., <span id='nasimetal' onclick='Nasimetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
         <td>Aligning retrograde nuclear cluster orbits with an active galactic nucleus accretion disc</td>\
         <td>MNRAS, 522, 5393<br>\
@@ -717,6 +870,15 @@ var all="\
          | <a context=citet href=https://arxiv.org/abs/1906.06306>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..68N/abstract>ADSAbs</a></td>\
         <td>2022</td>\
+    </tr>\
+    <tr>\
+        <td>Ng, H. H.-Y., <br>Cheong, P. C.-K., <br>Lin, L.-M. &<br>L., T. G. F.</td>\
+        <td>Gravitational-wave asteroseismology with \\(f\\)-modes from neutron star binaries at the merger phase</td>\
+        <td>ApJ, 915, 108<br>\
+        <a context=citet href=https://doi.org/10.3847/1538-4357/ac0141>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/2012.08263>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2021ApJ...915..108N/abstract>ADSAbs</a></td>\
+        <td>2021</td>\
     </tr>\
     <tr>\
         <td>Nitta, S.-Y.</td>\
@@ -778,6 +940,31 @@ var all="\
          | <a context=citet href=https://arxiv.org/abs/astro-ph/0611188>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2007ApJ...658..129P/abstract>ADSAbs</a></td>\
         <td>2007</td>\
+    </tr>\
+    <tr>\
+        <td>Passamonti, A. &<br>Lander, S. K.</td>\
+        <td>Quasi-periodic oscillations in superfluid magnetars</td>\
+        <td>MNRAS, 438, 156<br>\
+        <a context=citet href=https://doi.org/10.1093/mnras/stw1880>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/1606.02132>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2016MNRAS.463.1173P/abstract>ADSAbs</a></td>\
+        <td>2016</td>\
+    </tr>\
+    <tr>\
+        <td>Passamonti, A. &<br>Lander, S. K.</td>\
+        <td>Quasi-periodic oscillations in superfluid, relativistic magnetars with pasta phases</td>\
+        <td>MNRAS, 463, 1173<br>\
+        <a context=citet href=https://doi.org/10.1093/mnras/stt2134>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/1307.3210>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2014MNRAS.438..156P/abstract>ADSAbs</a></td>\
+        <td>2014</td>\
+    </tr>\
+    <tr>\
+        <td>Périgois, C.</td>\
+        <td>PRINCESS: Prediction of compact binaries observations with gravitational waves</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.16127>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250116127P/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
     </tr>\
     <tr>\
         <td>Peters, P. C. &<br>Mathews, J.</td>\
@@ -884,6 +1071,15 @@ var all="\
         <td>2024</td>\
     </tr>\
     <tr>\
+        <td>Pretel, J. M. Z., <br>Jorás, S. E., <br>Ribamar, R. R. R., &<br>Arbañil, J. D. V.</td>\
+        <td>Neutron stars in \\(f(R,T)\\) gravity with conserved energy-momentum tensor: Hydrostatic equilibroum and asteroseismology</td>\
+        <td>JCAP 2021, 055<br>\
+        <a context=citet href=https://www.doi.org/10.1088/1475-7516/2021/08/055>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/>ArXiv</a>\
+         | <a context=citet href=>ADSAbs</a></td>\
+        <td>2021</td>\
+    </tr>\
+    <tr>\
         <td>Price-Whelan, A. M.</td>\
         <td>Gala: A Python package for galactic dynamics</td>\
         <td>The Journal of Open Source Software, 2, 388<br>\
@@ -928,6 +1124,13 @@ var all="\
         <td>2018</td>\
     </tr>\
     <tr>\
+        <td>Rivieccio, G., <br>Nadal-Matosas, A., <br>Rios, A., &<br>Ruiz, M.</td>\
+        <td>The thermal index of neutron-star matter in the virial approximation</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.16795>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250116795R/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
         <td>Roisin, A., <br>Doukhanin, N., <br>Teyssandier, J., & <br>Libert, A.-S.</td>\
         <td>Resonance capture and long-term evolution of planets in binary star mergers</td>\
         <td>A&A, 664, A87<br>\
@@ -935,6 +1138,13 @@ var all="\
          | <a context=citet href=https://arxiv.org/abs/2206.08806>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..87R/abstract>ADSAbs</a></td>\
         <td>2022</td>\
+    </tr>\
+    <tr>\
+        <td>Rosato, R. F., <br>Biswas, S., <br>Chakraborty, S., &<br>Pani, P.</td>\
+        <td>Greybody factors, reflectionless scattering modes, and echoes of ultracompact horizonless objects</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.16433>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250116433R/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
     </tr>\
     <tr>\
         <td>Roulet, J. &<br>Venumadhav, T.</td>\
@@ -971,6 +1181,22 @@ var all="\
          | <a context=citet href=https://arxiv.org/abs/2210.09856>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2023ApJ...947...67R/abstract>ADSAbs</a></td>\
         <td>2023</td>\
+    </tr>\
+    <tr>\
+        <td>Saavedra, A., <span id='saavedraaetal' onclick='Saavedraaetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Neutron stars in 4D Einstein-Gauss-Bonnet gravity</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2412.15459>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241215459S/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Sagun, V., <br>Panotopoulos, G., &<br>Lopes, I.</td>\
+        <td>Asteroseismology: Radial oscillations of neutron stars with realistic equation of state</td>\
+        <td>Phys. Rev. D, 101, 063025<br>\
+        <a context=citet href=https://doi.org/10.1103/PhysRevD.101.063025>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/2002.12209>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2020PhRvD.101f3025S/abstract>ADSAbs</a></td>\
+        <td>2020</td>\
     </tr>\
     <tr>\
         <td>Samsing, J., <span id='samsingetal' onclick='Samsingetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
@@ -1023,6 +1249,13 @@ var all="\
         <td>2023</td>\
     </tr>\
     <tr>\
+        <td>Sekhmani, Y., <span id='sekhamietal' onclick='Sekhamietal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Black holes immersed in polytropic scalar field gas</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.10874https://ui.adsabs.harvard.edu/abs/2025arXiv250110874S/abstract>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250110874S/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
         <td>Simone, L. E., <br>Leonard, S. W., <br>Poisson, E., &<br>Will, C. M.</td>\
         <td>Gravitational waves from binary systems in circular orbits: Does the post-Newtonian expansion converge?</td>\
         <td>CQGr, 14, 237<br>\
@@ -1057,6 +1290,15 @@ var all="\
          | <a context=citet href=https://arxiv.org/abs/2306.07531>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2023PhRvD.107l3025S/abstract>ADSAbs</a></td>\
         <td>2023</td>\
+    </tr>\
+    <tr>\
+        <td>Sotani, H. &<br>Dohi, A.</td>\
+        <td>Gravitational wave asteroseismology on cooling neutron stars</td>\
+        <td>Phys. Rev. D 105, 023007<br>\
+        <a context=citet href=https://www.doi.org/10.1103/PhysRevD.105.023007</a>\
+         | <a context=citet href=https://arxiv.org/abs/2201.00648>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2022PhRvD.105b3007S/abstract>ADSAbs</a></td>\
+        <td>2022</td>\
     </tr>\
     <tr>\
         <td>Staelen, C. &<br>Huré, J.-M.</td>\
@@ -1157,6 +1399,15 @@ var all="\
         <td>1910</td>\
     </tr>\
     <tr>\
+        <td>Vretinaris, S., <br>Stergioulas, N., &<br>Bauswein, A.</td>\
+        <td>Empirical relations for gravitational-wave asteroseismology of binary neutron star mergers</td>\
+        <td>Phys. Rev. D 101, 084039<br>\
+        <a context=citet href=https://www.doi.org/10.1103/PhysRevD.101.084039</a>\
+         | <a context=citet href=https://arxiv.org/abs/1910.10856>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2020PhRvD.101h4039V/abstract>ADSAbs</a></td>\
+        <td>2020</td>\
+    </tr>\
+    <tr>\
         <td>Wagoner, R. V. &<br>Will, C. M.</td>\
         <td>Post-Newtonian gravitational radiation from orbiting point masses</td>\
         <td>ApJ, 210, 764<br>\
@@ -1200,6 +1451,13 @@ var all="\
         <td>2024</td>\
     </tr>\
     <tr>\
+        <td>Wang, Z.-L. &<br>Battista, E.</td>\
+        <td>Dynamical features and shadows of quantum Schwarzschild black hole in effective field theories of gravity</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.14516>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250114516W/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
         <td>Ward, W. R.</td>\
         <td>Protoplanet migration by nebula tides</td>\
         <td>Icarus, 126, 261<br>\
@@ -1208,8 +1466,33 @@ var all="\
         <td>1997</td>\
     </tr>\
     <tr>\
+        <td>Will, C. M.</td>\
+        <td>Higher-order effects in the dynamics of Hierarchical triple systems:<br>Quadrupole-squared terms</td>\
+        <td>Phys. Rev. D, 103, 063003<br>\
+        <a context=citet href=https://doi.org/10.1103/PhysRevD.103.063003>DOI</a>\
+<a context=citet href=https://arxiv.org/abs/2011.13286>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2021PhRvD.103f3003W/abstract>ADSAbs</a></td>\
+        <td>2011</td>\
+    </tr>\
+    <tr>\
+        <td>Conway, L. &<br>Will, C. M.</td>\
+        <td>Higher-order effects in the dynamics of Hierarchical triple systems:<br>II. Second-order and dotriacontapole-order effects</td>\
+        <td>Phys. Rev. D, 110, 083022<br>\
+        <a context=citet href=https://doi.org/10.1103/PhysRevD.110.083022>DOI</a>\
+<a context=citet href=https://arxiv.org/abs/2408.04411>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024PhRvD.110h3022C/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Conway, L. &<br>Will, C. M.</td>\
+        <td>Higher-order effects in the dynamics of Hierarchical triple systems:<br>III. Astrophysical implications of second-order and dotriacontapole terms</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.11187>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250111187C/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
         <td>Wilson, O. H. &<br>Ho, W. C. G.</td>\
-        <td>Gravitational waves from glitch-induced f-mode oscillations in quark and neutron stars</td>\
+        <td>Gravitational waves from glitch-induced \\(f\\)-mode oscillations in quark and neutron stars</td>\
         <td>Phys. Rev. D, 109, 083006<br>\
         <a context=citet href=https://doi.org/10.1103/PhysRevD.109.083006>DOI</a>\
          | <a context=citet href=https://arxiv.org/abs/2403.09489>ArXiv</a>\
@@ -1242,6 +1525,13 @@ var all="\
          | <a context=citet href=https://arxiv.org/abs/2304.03530>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2023ApJ...947...76X/abstract>ADSAbs</a></td>\
         <td>2023</td>\
+    </tr>\
+    <tr>\
+        <td>Yu, C., <br>Zhang, X-, <br>Kazempour, S., &<br>Sun, S.</td>\
+        <td>Superradiance in acoustic black hole</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2412.20890>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241220890Y/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
     </tr>\
     <tr>\
         <td>Yuan, Y. (<span style='font-family:Liu Jian Mao Cao;'>袁泳</span>), <br>Fan, X.-L. <span style='font-family:Liu Jian Mao Cao;'>范锡龙</span>), &<br>Lü, H.-J.</td>\
@@ -1278,6 +1568,13 @@ var all="\
          | <a context=citet href=https://arxiv.org/abs/2104.02989>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2021ApJ...914...33Z/abstract>ADSAbs</a></td>\
         <td>2021</td>\
+    </tr>\
+    <tr>\
+        <td>Zheng, Z.-Y. (<span style='font-family:Liu Jian Mao Cao;'>郑子岳</span>), <span id='zhengetal' onclick='Zhengetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>\\(f\\)-mode oscillations of hybrid stars with pasta construction</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2411.15697>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241115697Z/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
     </tr>\
     <tr>\
         <td>Zhu, W. (<span style='font-family:Liu Jian Mao Cao;'>祝伟</span>), <br>Huang, C. X. (<span style='font-family:Liu Jian Mao Cao;'>黄煦</span>), <br>Zhou, G., & <br>Lin, D. N. C. (<span style='font-family:Liu Jian Mao Cao;'>林潮</span>)</td>\
@@ -1521,6 +1818,31 @@ var mech="\
         <a context=citet href=https://doi.org/10.1006/icar.1996.5647>DOI</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/#abs/2000MNRAS.316..540C/abstract>ADSAbs</a></td>\
         <td>1997</td>\
+    </tr>\
+    <tr>\
+        <td>Will, C. M.</td>\
+        <td>Higher-order effects in the dynamics of Hierarchical triple systems:<br>Quadrupole-squared terms</td>\
+        <td>Phys. Rev. D, 103, 063003<br>\
+        <a context=citet href=https://doi.org/10.1103/PhysRevD.103.063003>DOI</a>\
+<a context=citet href=https://arxiv.org/abs/2011.13286>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2021PhRvD.103f3003W/abstract>ADSAbs</a></td>\
+        <td>2011</td>\
+    </tr>\
+    <tr>\
+        <td>Conway, L. &<br>Will, C. M.</td>\
+        <td>Higher-order effects in the dynamics of Hierarchical triple systems:<br>II. Second-order and dotriacontapole-order effects</td>\
+        <td>Phys. Rev. D, 110, 083022<br>\
+        <a context=citet href=https://doi.org/10.1103/PhysRevD.110.083022>DOI</a>\
+<a context=citet href=https://arxiv.org/abs/2408.04411>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024PhRvD.110h3022C/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Conway, L. &<br>Will, C. M.</td>\
+        <td>Higher-order effects in the dynamics of Hierarchical triple systems:<br>III. Astrophysical implications of second-order and dotriacontapole terms</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.11187>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250111187C/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
     </tr>\
     <tr>\
         <td>Yuan, Y. (<span style='font-family:Liu Jian Mao Cao;'>袁泳</span>), <br>Fan, X.-L. <span style='font-family:Liu Jian Mao Cao;'>范锡龙</span>), &<br>Lü, H.-J.</td>\
@@ -2622,6 +2944,15 @@ var gw="\
         <td>1998</td>\
     </tr>\
     <tr>\
+        <td>Flores, C. V., <span id='floresetal' onclick='Floresetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Gravitational wave asteroseismology of dark matter hadronic stars</td></a>\
+        <td>Phys. Rev. D, 109, 083021<br>\
+        <a context=citet href=https://www.doi.org/10.1103/PhysRevD.109.083021>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/2402.12600>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024PhRvD.109h3021F/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
         <td>Gossan, S. E., <br> Hall, E. D., &<br>\Nissanke, S. M.</td>\
         <td>Optimizing the third generation of gravitational-wave observatories for galactic astrophysics</td>\
         <td>ApJ, 926, 231<br>\
@@ -2691,6 +3022,15 @@ var gw="\
          | <a context=citet href=https://arxiv.org/abs/gr-qc/9907006>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/1999PhRvD..60l4008M/abstract>ADSAbs</a></td>\
         <td>1999</td>\
+    </tr>\
+    <tr>\
+        <td>Ng, H. H.-Y., <br>Cheong, P. C.-K., <br>Lin, L.-M. &<br>L., T. G. F.</td>\
+        <td>Gravitational-wave asteroseismology with \\(f\\)-modes from neutron star binaries at the merger phase</td>\
+        <td>ApJ, 915, 108<br>\
+        <a context=citet href=https://doi.org/10.3847/1538-4357/ac0141>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/2012.08263>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2021ApJ...915..108N/abstract>ADSAbs</a></td>\
+        <td>2021</td>\
     </tr>\
     <tr>\
         <td>Ossokine, S., <span id='ossokineetal' onclick='Ossokineetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
@@ -2804,6 +3144,15 @@ var gw="\
         <td>1998</td>\
     </tr>\
     <tr>\
+        <td>Sotani, H. &<br>Dohi, A.</td>\
+        <td>Gravitational wave asteroseismology on cooling neutron stars</td>\
+        <td>Phys. Rev. D 105, 023007<br>\
+        <a context=citet href=https://www.doi.org/10.1103/PhysRevD.105.023007</a>\
+         | <a context=citet href=https://arxiv.org/abs/2201.00648>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2022PhRvD.105b3007S/abstract>ADSAbs</a></td>\
+        <td>2022</td>\
+    </tr>\
+    <tr>\
         <td>Trani, A. A., <br>Quaini, S., &<br>Colpi, M.</td>\
         <td>Three-body encounters in black hole discs around a supermassive black hole. The disc velocity dispersion and the Keplerian tidal field determine the eccentricity and spin-orbit alignment of gravitational wave mergers</td>\
         <td>A&A, 683, A135<br>\
@@ -2839,7 +3188,7 @@ var gw="\
     </tr>\
     <tr>\
         <td>Wilson, O. H. &<br>Ho, W. C. G.</td>\
-        <td>Gravitational waves from glitch-induced f-mode oscillations in quark and neutron stars</td>\
+        <td>Gravitational waves from glitch-induced \\(f\\)-mode oscillations in quark and neutron stars</td>\
         <td>Phys. Rev. D, 109, 083006<br>\
         <a context=citet href=https://doi.org/10.1103/PhysRevD.109.083006>DOI</a>\
          | <a context=citet href=https://arxiv.org/abs/2403.09489>ArXiv</a>\
@@ -3088,6 +3437,15 @@ var ns="\
         <td>2024</td>\
     </tr>\
     <tr>\
+        <td>Dong, W. &<br>Melatos, A.<\td>\
+        <td>Gravitational waves from \\(r\\)-mode oscillations of stochastically accreting neutron stars</td>\
+        <td>MNRAS, 537, 650\
+        <a> context=citet href=https://www.doi.org/10.1093/mnras/staf033>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025MNRAS.537..650D/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
         <td>Feng, W.-F., <span id='fengetal' onclick='Fengetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
         <td>Inferring binary parameters with dual-line gravitational wave detection from tight inspiraling double neutron stars</td>\
         <td>Phys. Rev. D, 109, 043033<br>\
@@ -3116,12 +3474,21 @@ var ns="\
     </tr>\
     <tr>\
         <td>Kraav, K. Y., <br>Gusakov, M. E., &<br>Kantor, E. M.</td>\
-        <td>Instability windows of relativistic r -modes</td>\
+        <td>Instability windows of relativistic \\(r\\)-modes</td>\
         <td>Phys. Rev. D, 109, 043012<br>\
         <a context=citet href=https://doi.org/10.1103/PhysRevD.109.043012>DOI</a>\
          | <a context=citet href=https://arxiv.org/abs/2401.06200>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024PhRvD.109d3012K/abstract>ADSAbs</a></td>\
         <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Kumar, D., <br>Malik, T., <br>Mishra, H., &<br>Providência, C.</td>\
+        <td>Robust universal relations in neutron star asteroseismology</td>\
+        <td>Phys. Rev. D 108, 083008<br>\
+        <a context=citet href=https://www.doi.org/10.1103/PhysRevD.108.083008></a>\
+         | <a context=citet href=https://arxiv.org/abs/2306.09277>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2023PhRvD.108h3008K/abstract>ADSAbs</a></td>\
+        <td>2023</td>\
     </tr>\
     <tr>\
         <td>Levin, Y. &<br>D'Angelo, C.</td>\
@@ -3133,6 +3500,33 @@ var ns="\
         <td>2004</td>\
     </tr>\
     <tr>\
+        <td>Ng, H. H.-Y., <br>Cheong, P. C.-K., <br>Lin, L.-M. &<br>L., T. G. F.</td>\
+        <td>Gravitational-wave asteroseismology with \\(f\\)-modes from neutron star binaries at the merger phase</td>\
+        <td>ApJ, 915, 108<br>\
+        <a context=citet href=https://doi.org/10.3847/1538-4357/ac0141>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/2012.08263>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2021ApJ...915..108N/abstract>ADSAbs</a></td>\
+        <td>2021</td>\
+    </tr>\
+    <tr>\
+        <td>Passamonti, A. &<br>Lander, S. K.</td>\
+        <td>Quasi-periodic oscillations in superfluid magnetars</td>\
+        <td>MNRAS, 438, 156<br>\
+        <a context=citet href=https://doi.org/10.1093/mnras/stw1880>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/1606.02132>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2016MNRAS.463.1173P/abstract>ADSAbs</a></td>\
+        <td>2016</td>\
+    </tr>\
+    <tr>\
+        <td>Passamonti, A. &<br>Lander, S. K.</td>\
+        <td>Quasi-periodic oscillations in superfluid, relativistic magnetars with pasta phases</td>\
+        <td>MNRAS, 463, 1173<br>\
+        <a context=citet href=https://doi.org/10.1093/mnras/stt2134>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/1307.3210>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2014MNRAS.438..156P/abstract>ADSAbs</a></td>\
+        <td>2014</td>\
+    </tr>\
+    <tr>\
         <td>Pretel, J. M. Z., <br>Dutra, M., &<br>Duarte, S. B.</td>\
         <td>Normal oscillation modes and radial stability of neutron stars with a dark-energy core from the Chaplygin gas</td>\
         <td>Phys. Rev. D, 109, 023524<br>\
@@ -3140,6 +3534,15 @@ var ns="\
          | <a context=citet href=https://arxiv.org/abs/2401.01961>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024PhRvD.109b3524P/abstract>ADSAbs</a></td>\
         <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Pretel, J. M. Z., <br>Jorás, S. E., <br>Ribamar, R. R. R., &<br>Arbañil, J. D. V.</td>\
+        <td>Neutron stars in \\(f(R,T)\\) gravity with conserved energy-momentum tensor: Hydrostatic equilibroum and asteroseismology</td>\
+        <td>JCAP 2021, 055<br>\
+        <a context=citet href=https://www.doi.org/10.1088/1475-7516/2021/08/055>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/>ArXiv</a>\
+         | <a context=citet href=>ADSAbs</a></td>\
+        <td>2021</td>\
     </tr>\
     <tr>\
         <td>Radice, D. &<br>Hawke, I.</td>\
@@ -3160,6 +3563,15 @@ var ns="\
         <td>2018</td>\
     </tr>\
     <tr>\
+        <td>Sagun, V., <br>Panotopoulos, G., &<br>Lopes, I.</td>\
+        <td>Asteroseismology: Radial oscillations of neutron stars with realistic equation of state</td>\
+        <td>Phys. Rev. D, 101, 063025<br>\
+        <a context=citet href=https://doi.org/10.1103/PhysRevD.101.063025>DOI</a>\
+         | <a context=citet href=https://arxiv.org/abs/2002.12209>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2020PhRvD.101f3025S/abstract>ADSAbs</a></td>\
+        <td>2020</td>\
+    </tr>\
+    <tr>\
         <td>Schutz, B. F.</td>\
         <td>Asteroseismology of neutron stars and black holes</td>\
         <td>Jour. Phys.: Conf. Ser., 118, 012005<br>\
@@ -3177,6 +3589,24 @@ var ns="\
         <td>2023</td>\
     </tr>\
     <tr>\
+        <td>Sotani, H. &<br>Dohi, A.</td>\
+        <td>Gravitational wave asteroseismology on cooling neutron stars</td>\
+        <td>Phys. Rev. D 105, 023007<br>\
+        <a context=citet href=https://www.doi.org/10.1103/PhysRevD.105.023007</a>\
+         | <a context=citet href=https://arxiv.org/abs/2201.00648>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2022PhRvD.105b3007S/abstract>ADSAbs</a></td>\
+        <td>2022</td>\
+    </tr>\
+    <tr>\
+        <td>Vretinaris, S., <br>Stergioulas, N., &<br>Bauswein, A.</td>\
+        <td>Empirical relations for gravitational-wave asteroseismology of binary neutron star mergers</td>\
+        <td>Phys. Rev. D 101, 084039<br>\
+        <a context=citet href=https://www.doi.org/10.1103/PhysRevD.101.084039</a>\
+         | <a context=citet href=https://arxiv.org/abs/1910.10856>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2020PhRvD.101h4039V/abstract>ADSAbs</a></td>\
+        <td>2020</td>\
+    </tr>\
+    <tr>\
         <td>Wang, Y., <br>Bing, Z., <br>Zhu, Z.</td>\
         <td>Anisotropic energy injection from magnetar central engines in short GRBs</td>\
         <td>MNRAS, 528, 3705<br>\
@@ -3187,7 +3617,7 @@ var ns="\
     </tr>\
     <tr>\
         <td>Wilson, O. H. &<br>Ho, W. C. G.</td>\
-        <td>Gravitational waves from glitch-induced f-mode oscillations in quark and neutron stars</td>\
+        <td>Gravitational waves from glitch-induced \\(f\\)-mode oscillations in quark and neutron stars</td>\
         <td>Phys. Rev. D, 109, 083006<br>\
         <a context=citet href=https://doi.org/10.1103/PhysRevD.109.083006>DOI</a>\
          | <a context=citet href=https://arxiv.org/abs/2403.09489>ArXiv</a>\
@@ -3215,6 +3645,197 @@ var ns="\
 </table>\
 ";
 
+var preprints="\
+<table>\
+    <tr><th>Authors</th>\
+        <th>Title</th>\
+        <th>Reference</th>\
+        <th>Year</th>\
+    </tr>\
+    <tr>\
+        <td>Ahmed, F.,<br> Sakallı, İ., <br>Al-Badawi, A., &<br>Bouzenada, A.</td>\
+        <td>Scalar, vector perturbations and effective Hawking radiation of cylindrical black holes in \\(f(\mathcal{R})\\) and Ricci-inverse gravity</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.00060>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250100060A/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Bucciotti, B., <span id='bucciottietal' onclick='Bucciottietal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Ringdown nonlinearities in the eikonal regime</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.17950>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250117950B/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Carballo-Rubio, D., <span id='carballorubioetal' onclick='CarballoRubioetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Towards a non-singular paradigm of black hole physics</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.05505>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250105505C/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Creci, G., <br>van Gemeren, I., <br>Hniderer, T., &<br>Steinhoff, J.</td>\
+        <td>Tidal effects in gravitational waves from neutron stars in scalar-tensor theories of gravity</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2412.06620>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241206620C/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Das, P., <span id='dasetal' onclick='Dasetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Pulse profiles of accreting neutron stars from GRMHD simulations</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2411.16528>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241116528D/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Fathi, M. &<br>Övgün, A.</td>\
+        <td>Black hole with global monopole charge in self-interacting Kalb-Ramond field</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.09899>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250109899F/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Fynn Diedrichs, R., <br>Tsujikawa, S., &<br>Yagi, K.</td>\
+        <td>Tidal Love numbers of neutron stars in Horndeski theories</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.07998>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250107998F/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Gao, Y., <span id='gaoetal' onclick='Gaoetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Convective stability analysis of massive neutron stars formed in binary mergers</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.19053>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250119053G/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Gavassino, L.</td>\
+        <td>Extending Israel-Stewart theory: Causal bulk viscosity at large gradients</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.12543>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250112543G/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Guo, X., <span id='guoetal' onclick='Guoetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>There is room at the top: Fundamental quantum limits for detecting ultra-high frequency gravitational waves</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.18146>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250118146G/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>He, K.-J., (<span style='font-family:Liu Jian Mao Cao;'>何柯腱</span>)<br>Yang, C.-J., &<br>Zeng, X.-X. (<span style='font-family:Liu Jian Mao Cao;'>曾晓雄</span>)</td>\
+        <td>Optical appearance of the Konoplya-Zhidenko rotating non-Kerr black hole surrounded by a thin accretion disk</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.06778>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250106778H/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Heinz, U. &<br>Schenke, B.</td>\
+        <td>Hydrodynamic description of the quark-gluon plasma</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2412.19393>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241219393H/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Hu, Y. &<br>Kamada, K.</td>\
+        <td>Gravitational waves from metastable cosmic strings in the delayed scaling scenario</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.18380>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250118380H/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Karmakar, B. &<br>Djordjevic, M.</td>\
+        <td>Radiative energy loss in a dynamically evolving quark-gluon plasma</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2412.17106>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241217106K/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Koide, S., <br>Noda, S., &<br>Takahashi, M.</td>\
+        <td>One-dimensional linear analysis and numerical simulations of Alfv´en waves in a force-free magnetosphere around a Kerr black hole</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.13314>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250113314K/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Li, H.-B., <br>Shao, L., <br>Xia, C.-J. (<span style='font-family:Liu Jian Mao Cao;'>夏铖君</span>), &<br>Xu, R.-X.  (<span style='font-family:Liu Jian Mao Cao;'>徐仁新</span>)</td>\
+        <td>Continuous gravitational waves from thermal mountains on accreting neutron stars: Effect of the nuclear pasta phase</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2411.11075>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241111075L/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Mehta, A. K., <span id='mehtaetal' onclick='Mehtaetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Significant increase in sensitive volume of a gravitational wave search upon including higher harmonics</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.17939>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250117939M/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Moriyama, K., <span id='moriyamaetal' onclick='Moriyamaetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Black hole accretion and radiation variability in GRMHD simulations with Rezzolla-Zhidenko spacetime</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.08720>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250108720M/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Périgois, C.</td>\
+        <td>PRINCESS: Prediction of compact binaries observations with gravitational waves</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.16127>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250116127P/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Rivieccio, G., <br>Nadal-Matosas, A., <br>Rios, A., &<br>Ruiz, M.</td>\
+        <td>The thermal index of neutron-star matter in the virial approximation</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.16795>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250116795R/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Rosato, R. F., <br>Biswas, S., <br>Chakraborty, S., &<br>Pani, P.</td>\
+        <td>Greybody factors, reflectionless scattering modes, and echoes of ultracompact horizonless objects</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.16433>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250116433R/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Saavedra, A., <span id='saavedraaetal' onclick='Saavedraaetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Neutron stars in 4D Einstein-Gauss-Bonnet gravity</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2412.15459>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241215459S/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Sekhmani, Y., <span id='sekhamietal' onclick='Sekhamietal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>Black holes immersed in polytropic scalar field gas</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.10874https://ui.adsabs.harvard.edu/abs/2025arXiv250110874S/abstract>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250110874S/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Wang, Z.-L. &<br>Battista, E.</td>\
+        <td>Dynamical features and shadows of quantum Schwarzschild black hole in effective field theories of gravity</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2501.14516>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250114516W/abstract>ADSAbs</a></td>\
+        <td>2025</td>\
+    </tr>\
+    <tr>\
+        <td>Yu, C., <br>Zhang, X-, <br>Kazempour, S., &<br>Sun, S.</td>\
+        <td>Superradiance in acoustic black hole</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2412.20890>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241220890Y/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+    <tr>\
+        <td>Zheng, Z.-Y. (<span style='font-family:Liu Jian Mao Cao;'>郑子岳</span>), <span id='zhengetal' onclick='Zhengetal_fullauthorlist()' style='text-decoration:underline;text-decoration-style:dotted;'><i>et al.</i></span></td>\
+        <td>\\(f\\)-mode oscillations of hybrid stars with pasta construction</td>\
+        <td><a context=citet href=https://arxiv.org/abs/2411.15697>ArXiv</a>\
+         | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2024arXiv241115697Z/abstract>ADSAbs</a></td>\
+        <td>2024</td>\
+    </tr>\
+";
+
 
 const outputs = {
     "all":all,
@@ -3228,6 +3849,7 @@ const outputs = {
     "gravitational-waves":gw,
     "black-holes":bh,
     "neutron-stars":ns,
+    "preprints":preprints,
 };
 
 function keyword_select() {
@@ -3377,6 +3999,129 @@ function Ossokineetal_fullauthorlist() {
         x.style="text-decoration:underline;text-decoration-style:dotted;"
     }
 };
+
+function CarballoRubioetal_fullauthorlist() {
+    var x = document.getElementById("carballorubioetal");
+    if (x.innerHTML === "<i>et al.</i>") {
+        x.innerHTML = carballorubio_long;
+        x.style="None"
+    } else {
+        x.innerHTML = "<i>et al.</i>";
+        x.style="text-decoration:underline;text-decoration-style:dotted;"
+    }
+};
+
+function Floresetal_fullauthorlist() {
+    var x = document.getElementById("floresetal");
+    if (x.innerHTML === "<i>et al.</i>") {
+        x.innerHTML = flores_long;
+        x.style="None"
+    } else {
+        x.innerHTML = "<i>et al.</i>";
+        x.style="text-decoration:underline;text-decoration-style:dotted;"
+    }
+};
+
+function Bucciottietal_fullauthorlist() {
+    var x = document.getElementById("bucciottietal");
+    if (x.innerHTML === "<i>et al.</i>") {
+        x.innerHTML = bucciotti_long;
+        x.style="None"
+    } else {
+        x.innerHTML = "<i>et al.</i>";
+        x.style="text-decoration:underline;text-decoration-style:dotted;"
+    }
+};
+
+function Dasetal_fullauthorlist() {
+    var x = document.getElementById("dasetal");
+    if (x.innerHTML === "<i>et al.</i>") {
+        x.innerHTML = das_long;
+        x.style="None"
+    } else {
+        x.innerHTML = "<i>et al.</i>";
+        x.style="text-decoration:underline;text-decoration-style:dotted;"
+    }
+};
+
+function Gaoetal_fullauthorlist() {
+    var x = document.getElementById("gaoetal");
+    if (x.innerHTML === "<i>et al.</i>") {
+        x.innerHTML = gao_long;
+        x.style="None"
+    } else {
+        x.innerHTML = "<i>et al.</i>";
+        x.style="text-decoration:underline;text-decoration-style:dotted;"
+    }
+};
+
+function Guoetal_fullauthorlist() {
+    var x = document.getElementById("guoetal");
+    if (x.innerHTML === "<i>et al.</i>") {
+        x.innerHTML = guo_long;
+        x.style="None"
+    } else {
+        x.innerHTML = "<i>et al.</i>";
+        x.style="text-decoration:underline;text-decoration-style:dotted;"
+    }
+};
+
+function Mehtaetal_fullauthorlist() {
+    var x = document.getElementById("mehtaetal");
+    if (x.innerHTML === "<i>et al.</i>") {
+        x.innerHTML = mehta_long;
+        x.style="None"
+    } else {
+        x.innerHTML = "<i>et al.</i>";
+        x.style="text-decoration:underline;text-decoration-style:dotted;"
+    }
+};
+
+function Moriyamaetal_fullauthorlist() {
+    var x = document.getElementById("moriyamaetal");
+    if (x.innerHTML === "<i>et al.</i>") {
+        x.innerHTML = moriyama_long;
+        x.style="None"
+    } else {
+        x.innerHTML = "<i>et al.</i>";
+        x.style="text-decoration:underline;text-decoration-style:dotted;"
+    }
+};
+
+function Saavedraetal_fullauthorlist() {
+    var x = document.getElementById("saavedraetal");
+    if (x.innerHTML === "<i>et al.</i>") {
+        x.innerHTML = saavedra_long;
+        x.style="None"
+    } else {
+        x.innerHTML = "<i>et al.</i>";
+        x.style="text-decoration:underline;text-decoration-style:dotted;"
+    }
+};
+
+function Sekhamietal_fullauthorlist() {
+    var x = document.getElementById("sekhamietal");
+    if (x.innerHTML === "<i>et al.</i>") {
+        x.innerHTML = sekhami_long;
+        x.style="None"
+    } else {
+        x.innerHTML = "<i>et al.</i>";
+        x.style="text-decoration:underline;text-decoration-style:dotted;"
+    }
+};
+
+function Zhengetal_fullauthorlist() {
+    var x = document.getElementById("zhengetal");
+    if (x.innerHTML === "<i>et al.</i>") {
+        x.innerHTML = zheng_long;
+        x.style="None"
+    } else {
+        x.innerHTML = "<i>et al.</i>";
+        x.style="text-decoration:underline;text-decoration-style:dotted;"
+    }
+};
+
+
 
 var cook_long="<br>\
 Choptuik, M. W.,<br>\
@@ -3703,3 +4448,91 @@ Boyle, M., <br>\
 Kidder, L. E., <br>\
 Scheel, M. A., &<br>\
 Szilágyi, B.";
+
+var carballorubio_long="<br>\
+Di Filippo, F., <br>\
+Liberati, S., <br>\
+Visser, M., <br>\
+Arrechea, J., <br>\
+Barceló, C., <br>\
+Bonanno, A., <br>\
+Borissova, J., <br>\
+Boyanov, V., <br>\
+Cardoso, V., <br>\
+Del Porro, F., <br>\
+Eichhorn, A., <br>\
+Jampolski, D., <br>\
+Martín-Moruno, P., <br>\
+Mazza, J., <br>\
+McMaken, T., <br>\
+Panassiti, A., <br>\
+Pano, P., <br>\
+Platania, A., <br>\
+Rezzolla, L., &<br>\
+Vellucci, V.";
+
+var flores_long="<br>\
+Lenzi, C. H., <br>\
+Dutra, M., <br>\
+Lourenço, O., &<br>\
+Arbañil, J. D. V.";
+
+var bucciotti_long="<br>\
+Cardoso, V., <br>\
+Kuntz, A., <br>\
+Pereñiguez, D., &<br>\
+Redondo-Yuste, J.";
+
+var das_long="<br>\
+Salmi, T., <br>\
+Davelaar, J., <br>\
+Porth, O., &<br>\
+Watts, A.";
+
+var gao_long="<br>\
+Hayashi, K., <br>\
+Kiuchi, K., <br>\
+Tsz-Lok Lam, A., <br>\
+Kuan, H.-J., &<br>\
+Shibata, M.";
+
+var guo_long="<br>\
+Miao, H., <br>\
+Wang, Z.-W., <br>\
+Yang, H., &<br>\
+Zhou, Y.-L.";
+
+var mehta_long="<br>\
+Wadekar, D., <br>\
+Roulet, J., <br>\
+Anantpurkar, I., <br>\
+Venumadhav, T., <br>\
+Mushkin, J., <br>\
+Zackay, B., <br>\
+Zaldarriaga, M., &<br>\
+Islam, T.";
+
+var moriyama_long="<br>\
+Cruz-Osorio, A., <br>\
+Mizuno, Y., <br>\
+Dihingia, I. K., &<br>\
+Uniyal, A.";
+
+var saavedra_long="<br>\
+Fierro, O., <br>\
+Gammon, M., <br>\
+Mann, R. B., <br>\
+Rubilar, G.";
+
+var sekhami_long="<br>\
+Zare, S., <br>\
+Nieto, L. M., <br>\
+Hassanabadi, H., &<br>\
+Boshkayev, K.";
+
+var zheng_long="<br>\
+Wei, J.-B. (<span style='font-family:Liu Jian Mao Cao;'>魏金标</span>),<br>\
+Chen, H. (<span style='font-family:Liu Jian Mao Cao;'>陈欢</span>), <br>\
+Zheng, X.-P. (<span style='font-family:Liu Jian Mao Cao;'>郑小平</span>), <br>\
+Burgio, G. F., &<br>\
+Schulze, H.-J.";
