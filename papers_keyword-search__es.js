@@ -31,7 +31,14 @@ var all="\
     </tr>\
     <tr>\
         <td>Ahmed, F.,<br> Sakallı, İ., <br>Al-Badawi, A., &<br>Bouzenada, A.</td>\
-        <td>Scalar, vector perturbations and effective Hawking radiation of cylindrical black holes in \\(f(\mathcal{R})\\) and Ricci-inverse gravity</td>\
+        <td>Scalar, vector perturbations and effective Hawking radiation of cylindrical black holes in\
+            <span style='margin-right:-5px;'>\\(f(\\)</span>\
+            <svg width='1em' height='1em' viewBox='0 10 120 160' xmlns='http://www.w3.org/2000/svg' style='vertical-align:text-bottom;padding-left:0px'>\
+                <text x='0' y='150' font-family='Cambria Math' font-size='180px' fill='#f7f6e8'>&#x211B;</text>\
+            </svg>\
+            <span style='margin-left:-3px;'>\\()\\)</span>\
+        and Ricci-inverse gravity</td>\
+        </td>\
         <td><a context=citet href=https://arxiv.org/abs/2501.00060>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250100060A/abstract>ADSAbs</a></td>\
         <td>2024</td>\
@@ -3654,7 +3661,14 @@ var preprints="\
     </tr>\
     <tr>\
         <td>Ahmed, F.,<br> Sakallı, İ., <br>Al-Badawi, A., &<br>Bouzenada, A.</td>\
-        <td>Scalar, vector perturbations and effective Hawking radiation of cylindrical black holes in \\(f(\mathcal{R})\\) and Ricci-inverse gravity</td>\
+        <td>Scalar, vector perturbations and effective Hawking radiation of cylindrical black holes in\
+            <span style='margin-right:-5px;'>\\(f(\\)</span>\
+            <svg width='1em' height='1em' viewBox='0 10 120 160' xmlns='http://www.w3.org/2000/svg' style='vertical-align:text-bottom;padding-left:0px'>\
+                <text x='0' y='150' font-family='Cambria Math' font-size='180px' fill='#f7f6e8'>&#x211B;</text>\
+            </svg>\
+            <span style='margin-left:-3px;'>\\()\\)</span>\
+        and Ricci-inverse gravity</td>\
+        </td>\
         <td><a context=citet href=https://arxiv.org/abs/2501.00060>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025arXiv250100060A/abstract>ADSAbs</a></td>\
         <td>2024</td>\
