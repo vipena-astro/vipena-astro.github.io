@@ -370,10 +370,10 @@ var all="\
         <td>2020</td>\
     </tr>\
     <tr>\
-        <td>Dong, W. &<br>Melatos, A.<\td>\
+        <td>Dong, W. &<br>Melatos, A.</td>\
         <td>Gravitational waves from \\(r\\)-mode oscillations of stochastically accreting neutron stars</td>\
         <td>MNRAS, 537, 650\
-        <a> context=citet href=https://www.doi.org/10.1093/mnras/staf033>DOI</a>\
+        <a context=citet href=https://www.doi.org/10.1093/mnras/staf033>DOI</a>\
          | <a context=citet href=https://arxiv.org/abs/>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025MNRAS.537..650D/abstract>ADSAbs</a></td>\
         <td>2025</td>\
@@ -3444,10 +3444,10 @@ var ns="\
         <td>2024</td>\
     </tr>\
     <tr>\
-        <td>Dong, W. &<br>Melatos, A.<\td>\
+        <td>Dong, W. &<br>Melatos, A.</td>\
         <td>Gravitational waves from \\(r\\)-mode oscillations of stochastically accreting neutron stars</td>\
         <td>MNRAS, 537, 650\
-        <a> context=citet href=https://www.doi.org/10.1093/mnras/staf033>DOI</a>\
+        <a context=citet href=https://www.doi.org/10.1093/mnras/staf033>DOI</a>\
          | <a context=citet href=https://arxiv.org/abs/>ArXiv</a>\
          | <a context=citet href=https://ui.adsabs.harvard.edu/abs/2025MNRAS.537..650D/abstract>ADSAbs</a></td>\
         <td>2025</td>\
